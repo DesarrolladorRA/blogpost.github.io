@@ -1,4 +1,5 @@
 body{
+    background: #1e1f24;;
     color: #333;
     text-align: center;
     font-family: 'Times New Roman';
@@ -35,4 +36,10 @@ body{
     font-weight: normal;
     font-size: 1em;
 
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
