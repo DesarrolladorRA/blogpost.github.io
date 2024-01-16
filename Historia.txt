@@ -9,3 +9,6 @@ y se convirtio en escritor
 He know speak in english and he has an microsoft excel master 
 
 level on his second language
+
+En esta ultima modificacion vamos a crear una rama para hacer algunos arreglos 
+a la imagen y despues vamos a borrar gitignore y subimos la imagen a github
